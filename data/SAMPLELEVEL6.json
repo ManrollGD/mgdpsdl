@@ -13,6 +13,18 @@
             "link": "mgdpsdl.pages.dev",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "(SGA) Manroll",
+            "link": "mgdpsdl.pages.dev",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Duratech",
+            "link": "mgdpsdl.pages.dev",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }

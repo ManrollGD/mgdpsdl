@@ -9,7 +9,43 @@
     "password": "Free To Copy",
     "records": [
         {
+            "user": "DaddyP",
+            "link": "mgdpsdl.pages.dev",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "(SGA) Manroll",
+            "link": "mgdpsdl.pages.dev",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "(SEBA) SpoilerSebata",
+            "link": "mgdpsdl.pages.dev",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Cabbage",
+            "link": "mgdpsdl.pages.dev",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "(SGA) SiyaWasHere",
+            "link": "mgdpsdl.pages.dev",
+            "percent": 100,
+            "hz": 360
+        },
+        {
             "user": "Zzoink",
+            "link": "mgdpsdl.pages.dev",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "RandomGuyGifted",
             "link": "mgdpsdl.pages.dev",
             "percent": 100,
             "hz": 360

@@ -9,6 +9,18 @@
     "password": "Free To Copy",
     "records": [
         {
+            "user": "(SGA) Manroll",
+            "link": "mgdpsdl.pages.dev",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Duratech",
+            "link": "mgdpsdl.pages.dev",
+            "percent": 100,
+            "hz": 60
+        },
+        {
             "user": "Zzoink",
             "link": "mgdpsdl.pages.dev",
             "percent": 100,

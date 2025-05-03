@@ -3,7 +3,7 @@
     "name": "ACB",
     "author": "SadBall",
     "creators": ["SadBall"],
-    "verifier": "SadBall",
+    "verifier": "(SGA) Manroll",
     "verification": "https://mgdpsdl.pages.dev/#/",
     "percentToQualify": "70",
     "password": "Free To Copy",
@@ -13,6 +13,18 @@
             "link": "mgdpsdl.pages.dev",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Duratech",
+            "link": "mgdpsdl.pages.dev",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "DaddyP",
+            "link": "mgdpsdl.pages.dev",
+            "percent": 94,
+            "hz": 60
         }
     ]
 }

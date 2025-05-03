@@ -1,11 +1,11 @@
 {
-    "id": 124,
-    "name": "Named 12",
-    "author": "DaddyP",
-    "creators": ["DaddyP"],
-    "verifier": "DaddyP",
+    "id": 120,
+    "name": "Amazing World",
+    "author": "Cabbage",
+    "creators": ["Cabbage"],
+    "verifier": "Cabbage",
     "verification": "https://mgdpsdl.pages.dev/#/",
-    "percentToQualify": "81",
+    "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
         {

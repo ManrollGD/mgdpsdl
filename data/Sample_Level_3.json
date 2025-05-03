@@ -1,21 +1,27 @@
 {
-    "id": 57436521,
-    "name": "Sample Level 3",
-    "author": "Different Publisher",
-    "creators": ["Solo_Creator"],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": "100",
-    "password": "46290",
+    "id": 115,
+    "name": "Zero Aura",
+    "author": "TheManOMOHAU",
+    "creators": ["DaddyP"],
+    "verifier": "DaddyP",
+    "verification": "https://mgdpsdl.pages.dev/#/",
+    "percentToQualify": "67",
+    "password": "Free to copy",
     "records": [
         {
-            "user": "Sample_Victor_1",
+            "user": "(SGA) Manroll",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
             "percent": 100,
             "hz": 360
         },
         {
-            "user": "Sample_Victor_2",
+            "user": "Zzoink",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Duratech",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
             "percent": 100,
             "hz": 120

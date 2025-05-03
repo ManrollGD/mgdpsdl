@@ -8,5 +8,11 @@
     "percentToQualify": "48",
     "password": "Free to copy",
     "records": [
+        {
+            "user": "(SGA) Manroll",
+            "link": "mgdpsdl.pages.dev",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }

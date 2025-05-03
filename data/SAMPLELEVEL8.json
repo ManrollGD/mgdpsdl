@@ -31,6 +31,12 @@
             "link": "mgdpsdl.pages.dev",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "anethanoper",
+            "link": "mgdpsdl.pages.dev",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }

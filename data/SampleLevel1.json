@@ -3,16 +3,16 @@
     "name": "Silent Steps",
     "author": "Zzoink",
     "creators": ["SadBall","Zzoink"],
-    "verifier": "Zzoink",
+    "verifier": "(SGA) Manroll",
     "verification": "https://mgdpsdl.pages.dev/#/",
     "percentToQualify": "48",
     "password": "Free to copy",
     "records": [
         {
-            "user": "(SGA) Manroll",
+            "user": "Zzoink",
             "link": "mgdpsdl.pages.dev",
-            "percent": 100,
-            "hz": 240
+            "percent": 87,
+            "hz": 360
         }
     ]
 }

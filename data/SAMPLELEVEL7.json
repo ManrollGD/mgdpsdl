@@ -1,13 +1,19 @@
 {
-    "id": 116,
-    "name": "Blasmis",
+    "id": 124,
+    "name": "Named 12",
     "author": "DaddyP",
     "creators": ["DaddyP"],
     "verifier": "DaddyP",
     "verification": "https://mgdpsdl.pages.dev/#/",
-    "percentToQualify": "86",
+    "percentToQualify": "81",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Zzoink",
+            "link": "mgdpsdl.pages.dev",
+            "percent": 100,
+            "hz": 360
+        },
         {
             "user": "(SGA) Manroll",
             "link": "mgdpsdl.pages.dev",
@@ -21,10 +27,10 @@
             "hz": 60
         },
         {
-            "user": "Zzoink",
+            "user": "Ethan",
             "link": "mgdpsdl.pages.dev",
             "percent": 100,
-            "hz": 360
+            "hz": 60
         }
     ]
 }

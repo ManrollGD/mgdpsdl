@@ -1,9 +1,9 @@
 {
-    "id": 128,
-    "name": "Bradicated",
-    "author": "(SGA) SiyaWasHere",
-    "creators": ["(SGA) SiyaWasHere","RandomGuyGift"],
-    "verifier": "(SGA) Manroll",
+    "id": 122,
+    "name": "Minimal 2",
+    "author": "TheManOMOHAU",
+    "creators": ["DaddyP"],
+    "verifier": "DaddyP",
     "verification": "https://mgdpsdl.pages.dev/#/",
     "percentToQualify": "100",
     "password": "Free To Copy",
@@ -15,16 +15,40 @@
             "hz": 360
         },
         {
+            "user": "Duratech",
+            "link": "mgdpsdl.pages.dev",
+            "percent": 100,
+            "hz": 60
+        },
+        {
             "user": "Cabbage",
             "link": "mgdpsdl.pages.dev",
             "percent": 100,
             "hz": 60
         },
         {
-            "user": "(SEBA) SpoilerSebata",
+            "user": "(SGA) Manroll",
             "link": "mgdpsdl.pages.dev",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "(SEBA) SpoilerSebata",
+            "link": "mgdpsdl.pages.dev",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Ethan",
+            "link": "mgdpsdl.pages.dev",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "(SGA) SiyaWasHere",
+            "link": "mgdpsdl.pages.dev",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }

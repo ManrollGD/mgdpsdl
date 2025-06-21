@@ -25,6 +25,12 @@
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "Ethan",
+            "link": "mgdpsdl.pages.dev",
+            "percent": 74,
+            "hz": 60
         }
     ]
 }

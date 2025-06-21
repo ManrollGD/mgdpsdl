@@ -1,13 +1,19 @@
 {
-    "id": 122,
-    "name": "Minimal 2",
-    "author": "TheManOMOHAU",
-    "creators": ["DaddyP"],
-    "verifier": "DaddyP",
+    "id": 121,
+    "name": "CBS",
+    "author": "Cabbage",
+    "creators": ["Cabbage"],
+    "verifier": "Cabbage",
     "verification": "https://mgdpsdl.pages.dev/#/",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "(SGA) Manroll",
+            "link": "mgdpsdl.pages.dev",
+            "percent": 100,
+            "hz": 240
+        },
         {
             "user": "Zzoink",
             "link": "mgdpsdl.pages.dev",
@@ -21,31 +27,19 @@
             "hz": 60
         },
         {
-            "user": "Cabbage",
+            "user": "(SGA) SiyaWasHere",
             "link": "mgdpsdl.pages.dev",
             "percent": 100,
             "hz": 60
         },
         {
-            "user": "(SGA) Manroll",
+            "user": "Ethan",
             "link": "mgdpsdl.pages.dev",
             "percent": 100,
-            "hz": 240
+            "hz": 60
         },
         {
             "user": "(SEBA) SpoilerSebata",
-            "link": "mgdpsdl.pages.dev",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "anethanoper",
-            "link": "mgdpsdl.pages.dev",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "(SGA) SiyaWasHere",
             "link": "mgdpsdl.pages.dev",
             "percent": 100,
             "hz": 60

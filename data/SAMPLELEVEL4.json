@@ -1,11 +1,11 @@
 {
-    "id": 117,
-    "name": "ACB",
+    "id": 112,
+    "name": "Game Tutorial",
     "author": "SadBall",
     "creators": ["SadBall"],
     "verifier": "(SGA) Manroll",
     "verification": "https://mgdpsdl.pages.dev/#/",
-    "percentToQualify": "70",
+    "percentToQualify": "78",
     "password": "Free To Copy",
     "records": [
         {
@@ -15,13 +15,7 @@
             "hz": 360
         },
         {
-            "user": "Duratech",
-            "link": "mgdpsdl.pages.dev",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "DaddyP",
+            "user": "SadBall",
             "link": "mgdpsdl.pages.dev",
             "percent": 100,
             "hz": 60
